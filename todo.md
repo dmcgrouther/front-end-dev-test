@@ -3,10 +3,11 @@ High priority
 --text is not responsive
 --host (on github?)
 --*Subtle animation on the four icons*
+--fine tune visuals
 
 medium priority
 --write up
---make certain aspects re-usable
+--make certain aspects re-usable. text on white background on left hand side 
 --sometimes white space goes to bottom of page
 
 lower priority

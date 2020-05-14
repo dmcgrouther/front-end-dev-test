@@ -6,3 +6,14 @@ https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e
 
 carousel
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow
+
+
+star rating
+
+https://www.htmlsymbols.xyz/unicode/U+2605
+
+pre made rating
+https://www.w3schools.com/howto/howto_css_star_rating.asp
+
+below can be used for giving review
+https://codepen.io/jamesbarnett/pen/vlpkh
