@@ -118,7 +118,7 @@ body {
   grid-column-end: 11;
   grid-row-start: 37;
   grid-row-end: 43;
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 .gallery__item--9 {

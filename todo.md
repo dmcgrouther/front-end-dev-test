@@ -2,7 +2,6 @@ High priority
 --get page done, everything there
 --text is not responsive
 --host (on github?)
---caroursel on the bottom
 --*Subtle animation on the four icons*
 
 medium priority

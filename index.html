@@ -6,6 +6,8 @@
     <link rel="stylesheet" href="src/styles/main.css">
     <script src="jquery-3.5.1.min.js"></script>
     <script src="bundle.js"></script>
+    <link rel="stylesheet" href="carousel.css">
+    <script defer src="carousel.js"></script>
   </head>
   <body>
     <div class="gallery">
@@ -37,6 +39,39 @@
       <figure class="gallery__item gallery__item--7">
       </figure>
       <figure class="gallery__item gallery__item--8">
+        <div class="slideshow-container">
+        
+          <div class="mySlides fade">
+          <!-- <div class="numbertext">1 / 3</div> -->
+          <!-- <div class="text">Dave Doe 5/14/2020</div> -->
+          <h3 class="review-title">Dave Doe 5/14/2020</h3>
+          <p class="review">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa eaque tempora laboriosam sunt expedita dicta debitis dignissimos culpa eum error corporis, facilis minima praesentium asperiores rem ex, excepturi, consequuntur qui!</p>
+          </div>
+          
+          <div class="mySlides fade">
+          <!-- <div class="numbertext">2 / 3</div> -->
+          <!-- <div class="text">John Doe 5/14/2020</div> -->
+          <h3 class="review-title">John Doe 5/14/2020</h3>
+          <p class="review">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse explicabo nobis corrupti distinctio, quidem, ea, voluptatibus odio nostrum inventore obcaecati ab harum aut itaque amet iusto accusantium rem repellat saepe?</p>
+          </div>
+          
+          <div class="mySlides fade">
+          <!-- <div class="numbertext">3 / 3</div> -->
+          <h3 class="review-title">Joe Doe 5/14/2020</h3>
+          <p class="review">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto magnam blanditiis reprehenderit quod numquam voluptatem ab officia fuga ut atque dolore maiores inventore earum aliquid libero iure eius, quisquam tempora!</p>
+          </div>
+          
+          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      
+      </div>
+      <br>
+      
+        <div style="text-align:center">
+          <span class="dot" onclick="currentSlide(1)"></span> 
+          <span class="dot" onclick="currentSlide(2)"></span> 
+          <span class="dot" onclick="currentSlide(3)"></span> 
+        </div>
       </figure>
       <figure class="gallery__item gallery__item--9">
         <br>
