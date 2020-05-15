@@ -277,9 +277,20 @@ p {
   font-size: 1.2vw;
 }
 
-/* #first-paragraph {
-  font-size: 1.2vw;
-} */
+h4 {
+  font-size: 1.4vw;
+  color: rgb(78, 0, 78);
+}
+
+#first-paragraph {
+  margin-top: 1.8%;
+  margin-bottom: 1.8%;
+}
+
+#second-paragraph {
+  margin-top: 1.8%;
+  margin-bottom: 1.8%;
+}
 
 .checked {
   color: orange;
