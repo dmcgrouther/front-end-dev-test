@@ -93,6 +93,27 @@ body {
   grid-row-end: 22;
 }
 
+#first-banner-header {
+  position: absolute;
+  margin-top: 12.8%;
+  margin-left: 12.5%;
+}
+
+#first-banner-button {
+  position: absolute;
+  margin-top: 18%;
+  margin-left: 12.5%;
+
+}
+
+.banner-button {
+  background-color: rgb(255, 123, 0);
+  color: white;
+  font-size: 24px;
+  padding: 16px;
+}
+
+
 /* similar templates */
 .gallery__item--4 {
   grid-column-start: 1;
@@ -166,6 +187,25 @@ body {
   grid-column-end: 11;
   grid-row-start: 29;
   grid-row-end: 37;
+}
+
+#second-banner-header {
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 58%;
+}
+
+#banner-text {
+  position: absolute;
+  margin-top: 15.5%;
+  margin-left: 58%;
+  margin-right: 15%;
+}
+
+#second-banner-button {
+  position: absolute;
+  margin-top: 24%;
+  margin-left: 58%;
 }
 
 .gallery__item--7 {

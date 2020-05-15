@@ -1,5 +1,5 @@
 High priority
---get page done, everything there
+--get page done, everything there.  title/hero. 
 --text is not responsive
 --host (on github?)
 --fine tune visuals
