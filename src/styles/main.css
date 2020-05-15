@@ -45,6 +45,33 @@ body {
   z-index: 1;
 }
 
+#hero-header-1 {
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 38%;
+  color: white;
+  font-size: 40px;
+}
+
+#hero-header-2 {
+  position: absolute;
+  margin-top: 16%;
+  margin-left: 39.5%;
+  color: white;
+  font-size: 36px;
+}
+
+#hero-button {
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 40%;
+  font-size: 24px;
+  padding: 16px;
+  background-color: rgb(78, 0, 78);
+  color: white;
+  border:0;
+}
+
 .gallery__item--1--point--1 {
   grid-column-start: 2;
   grid-column-end: 4;
