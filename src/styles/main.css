@@ -53,6 +53,20 @@ body {
   z-index: 2;
 }
 
+/* .gallery__item--1--point--2 {
+  position: absolute;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+  color: white;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 6;
+  font-size: 2.5em;
+} */
+
 /* similar templates */
 .gallery__item--1--point--5 {
   grid-column-start: 1;
@@ -96,6 +110,49 @@ body {
   grid-row-start: 22;
   grid-row-end: 29;
   background-color: #eeeeee;
+}
+
+#first-item {
+  /* grid-column-start: 9;
+  grid-column-end: 10; */
+  /* grid-row-start: 23;
+  grid-column-end: 24; */
+  /* margin-top: 15%; */
+  /* align-content: center; */
+  /* margin-left: 45%; */
+  width: 17%;
+  height: auto;
+  margin-left: 20%;
+  margin-top: 15%;
+  /* align-items: center; */
+}
+
+#first-description {
+  margin-left: 13%;
+}
+
+#second-item {
+  width: 17%;
+  height: auto;
+  margin-left: 20%;
+  margin-top: 15%;
+  /* margin-bottom: 80%; */
+}
+
+#third-item {
+  width: 17%;
+  height: auto;
+  margin-left: 20%;
+  margin-top: 10%;
+  /* margin-bottom: 80%; */
+}
+
+#fourth-item {
+  width: 17%;
+  height: auto;
+  margin-left: 20%;
+  margin-top: 10%;
+  /* margin-bottom: 80%; */
 }
 
 .gallery__item--6 {
