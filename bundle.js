@@ -4,6 +4,6 @@ $(document).ready(function(){
 
     /*! Fades in page on load */
     $('#hero').css('display', 'none');
-    $('#hero').fadeIn(900);
+    $('#hero').fadeIn(1200);
     
     });

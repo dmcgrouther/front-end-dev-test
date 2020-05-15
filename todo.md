@@ -1,16 +1,13 @@
 High priority
---make mobile responsive.
---host (on github?)
---fine tune visuals (arrows on carousel)
+--fine tune visuals (arrows on carousel). also gets messed up when made into mobile, slightly. 
 
 higher priority
---write up
 --font for the hero banner
 --add text and circles to the icons
 
 medium priority
 --make certain aspects re-usable. text on white background on left hand side 
---sometimes white space goes to bottom of page
+--if screen gets smaller, social media icons go off screen
 
 lower priority
 --put in correct colors

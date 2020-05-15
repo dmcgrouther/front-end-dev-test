@@ -17,3 +17,7 @@ https://www.w3schools.com/howto/howto_css_star_rating.asp
 
 below can be used for giving review
 https://codepen.io/jamesbarnett/pen/vlpkh
+
+used this link to add line to html to get mobile working
+https://stackoverflow.com/questions/21968677/css-not-working-in-mobile-browsers
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
