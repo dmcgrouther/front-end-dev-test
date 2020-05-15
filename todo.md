@@ -2,11 +2,13 @@ High priority
 --get page done, everything there
 --text is not responsive
 --host (on github?)
---*Subtle animation on the four icons*
 --fine tune visuals
 
-medium priority
+higher priority
 --write up
+--add text and circles to the icons
+
+medium priority
 --make certain aspects re-usable. text on white background on left hand side 
 --sometimes white space goes to bottom of page
 
