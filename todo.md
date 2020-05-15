@@ -4,6 +4,7 @@ High priority
 higher priority
 --font for the hero banner
 --add text and circles to the icons
+--make headers aligned so they all start on same margin from left
 
 medium priority
 --make certain aspects re-usable. text on white background on left hand side 
