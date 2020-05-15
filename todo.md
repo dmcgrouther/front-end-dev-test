@@ -1,7 +1,7 @@
 High priority
---text is not responsive
+--make mobile responsive.
 --host (on github?)
---fine tune visuals
+--fine tune visuals (arrows on carousel)
 
 higher priority
 --write up
@@ -9,7 +9,6 @@ higher priority
 --add text and circles to the icons
 
 medium priority
---hero button has white outline
 --make certain aspects re-usable. text on white background on left hand side 
 --sometimes white space goes to bottom of page
 

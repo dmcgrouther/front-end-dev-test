@@ -50,7 +50,7 @@ body {
   margin-top: 12%;
   margin-left: 38%;
   color: white;
-  font-size: 40px;
+  font-size: 3vw;
 }
 
 #hero-header-2 {
@@ -58,14 +58,14 @@ body {
   margin-top: 16%;
   margin-left: 39.5%;
   color: white;
-  font-size: 36px;
+  font-size: 2.7vw;
 }
 
 #hero-button {
   position: absolute;
-  margin-top: 20%;
-  margin-left: 40%;
-  font-size: 24px;
+  margin-top: 21%;
+  margin-left: 41%;
+  font-size: 1.6vw;
   padding: 16px;
   background-color: rgb(78, 0, 78);
   color: white;
@@ -79,20 +79,6 @@ body {
   grid-row-end: 4;
   z-index: 2;
 }
-
-/* .gallery__item--1--point--2 {
-  position: absolute;
-  align-items: center;
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 2;
-  color: white;
-  grid-column-start: 4;
-  grid-column-end: 5;
-  grid-row-start: 5;
-  grid-row-end: 6;
-  font-size: 2.5em;
-} */
 
 /* similar templates */
 .gallery__item--1--point--5 {
@@ -136,7 +122,7 @@ body {
 .banner-button {
   background-color: rgb(255, 123, 0);
   color: white;
-  font-size: 24px;
+  font-size: 1.6vw;
   padding: 16px;
 }
 
@@ -260,11 +246,13 @@ body {
   grid-row-start: 43;
   grid-row-end: 45;
   background-color: #eeeeee;
+  overflow:hidden;
 }
 
 .footer {
   text-align: center;
-  /* font-size: 1.6em; */
+  font-size: 1.2vw;
+  margin-bottom: 0.8%;
 }
 
 #instagram {
@@ -280,12 +268,13 @@ body {
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 2.9vw;
   color: rgb(78, 0, 78);
 }
 
 p {
-  font-size: 1.6em;
+  /* font-size: 1.6em; */
+  font-size: 1.2vw;
 }
 
 .checked {
