@@ -309,7 +309,7 @@ p {
   font-size: 2.8vw;
 }
 
-@media all and (max-device-width: 720px){
+/* @media all and (max-device-width: 720px){
   h1 {
       font-size: 18px;
   }
@@ -325,4 +325,4 @@ p {
   h1 {
       font-size: 12px;
   }
-}
+} */

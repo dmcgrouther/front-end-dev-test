@@ -16,8 +16,10 @@
           position: absolute;
           top: 65%;
           width: auto;
-          padding: 16px;
-          margin-top: -22px;
+          /* padding: 16px; */
+          padding: 3%;
+          /* margin-top: -22px; */
+          margin-top: -3%;
           color: white;
           font-weight: bold;
           font-size: 18px;
